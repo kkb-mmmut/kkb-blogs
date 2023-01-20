@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kkb-blogs/static/css/main.fff68442.css",
+    "main.js": "/kkb-blogs/static/js/main.0b93e112.js",
+    "index.html": "/kkb-blogs/index.html",
+    "main.fff68442.css.map": "/kkb-blogs/static/css/main.fff68442.css.map",
+    "main.0b93e112.js.map": "/kkb-blogs/static/js/main.0b93e112.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fff68442.css",
+    "static/js/main.0b93e112.js"
+  ]
+}
